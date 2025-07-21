@@ -1,0 +1,9 @@
+venv/*
+venv312/*
+*.png
+*.deb
+*.deb.1
+*.whl
+*.txt
+*.pdf*
+*.m4a*
